@@ -67,6 +67,8 @@ Show a simple GUI to perform basic actions:
     python pyclinote.py -g
     
 
+Here (http://b-admin.blogspot.it/2015/04/show-and-manage-notes-on-your-linux.html)  can find how use pyclinote to show notes on desktop using conky
+
 That's all!
 
 
