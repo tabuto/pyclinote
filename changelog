@@ -1,0 +1,8 @@
+
+pyclinote 1.1 (25/04/2015)
+* manage priority
+* manage active/deactive note
+* improve list view for long notes
+* GUI improvements (layout, toolbar, icons)
+* add configuration and store it into db
+
